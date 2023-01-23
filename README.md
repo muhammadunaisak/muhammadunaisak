@@ -4,9 +4,9 @@
 
 
 - 👋 Hi, I’m @muhammadunaisak
-- 👀 I’m interested in react js
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on opensource Rjs projects
+- 👀 I’m a technophile
+- 🌱 I’m currently learning react js
+- 💞️ I’m looking to collaborate on opensource projects
 
 ### Languages and Tools:
 
