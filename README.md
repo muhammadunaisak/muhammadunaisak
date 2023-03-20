@@ -18,7 +18,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadunaisak&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://camo.githubusercontent.com/570a5d94a5bfff98fd8185d7cc82b0ef8b37393b4e40179e3f6a338ce706eb2e/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d41646865656c41686d65642d4433434426636f6c6f723d663833336666"/></a>
+
 <!---
 muhammadunaisak/muhammadunaisak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
