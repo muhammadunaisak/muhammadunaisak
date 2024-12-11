@@ -4,9 +4,7 @@
 
 
 - 👋 Hi, I’m @muhammadunaisak
-- 👀 I’m a technophile
-- 🌱 I’m currently learning react js
-- 💞️ I’m looking to collaborate on opensource projects
+
 
 ### Languages and Tools:
 
